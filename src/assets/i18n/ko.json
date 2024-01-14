@@ -1,0 +1,5 @@
+{
+	"welcome.duplicate.error.username": "사용자 이름이 중복됩니다.",
+	"welcome.required.error.username": "사용자 이름을 입력해주세요",
+	"welcome.username": "사용자 이름"
+}

@@ -1,0 +1,5 @@
+{
+	"welcome.duplicate.error.username": "ユーザー名が重複しています",
+	"welcome.required.error.username": "ユーザー名を入力してください",
+	"welcome.username": "ユーザー名"
+}

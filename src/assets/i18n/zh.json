@@ -1,0 +1,5 @@
+{
+	"welcome.duplicate.error.username": "用户名多余",
+	"welcome.required.error.username": "请输入您的用户名",
+	"welcome.username": "用户名"
+}

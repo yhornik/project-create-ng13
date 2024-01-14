@@ -1,0 +1,5 @@
+{
+	"welcome.duplicate.error.username": "The username is redundant",
+	"welcome.required.error.username": "Please input your username",
+	"welcome.username": "Username"
+}
